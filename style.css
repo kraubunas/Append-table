@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 15px;
+}
+
+input {
+  width: 200px;
+}
+
+button {
+  width: 204px;
+}
+
+table {
+  width: 600px;
+  border-collapse: collapse;
+}
+
+tr {
+  margin: 0 auto;
+}
+
+td {
+  padding: 10px;
+  border: 2px solid gold;
+  background: navy;
+  color: white;
+}
+th {
+  padding: 10px;
+  border: 2px solid gold;
+  background: gold;
+  text-transform: uppercase;
+}
